@@ -1,2 +1,0 @@
-# hoc-git
-read me
